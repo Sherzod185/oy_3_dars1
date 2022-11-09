@@ -1,0 +1,37 @@
+let lastName = prompt("Familyangizni kiriting");
+let firsName = prompt("Ismingizni kiriting");
+let age = prompt("Yoshingizni kiriting");
+let tel = prompt("Telefon raqamingizni kiriting");
+console.log("Familyangiz: " + lastName);
+console.log("Ismingiz: " + firsName);
+console.log("Yoshingiz: " + age);
+console.log("Raqamingiz: " + tel);
+
+document.write("Familyangiz: " + lastName + `<br>`);
+document.write("Ismingiz: " + firsName + `<br>`);
+document.write("Yoshingiz: " + age + `<br>`);
+document.write("Raqamingiz: " + tel + `<br>`);
+document.write("Assalomu alaykum " + lastName + "  " + firsName + " endi CONSOLEga tashrif buyurung va CONSOLEning maydonini kattalashtiring! ");
+
+console.log("                                                           ");
+console.log("                                                           ");
+console.log("                           ALLOHU AKBAR                    ");
+console.log("                                                           ");
+console.log("                              *  *  *                      ");
+console.log("                           *  *  *  *                      ");
+console.log("                             ********                      ");
+console.log("                *                                 *        ");
+console.log("               * *               *               * *       ");
+console.log("               * *              * *              * *       ");
+console.log("               * *              * *              * *       ");
+console.log("               * *              * *              * *       ");
+console.log("               * *              * *              * *       ");
+console.log("               * *              * *              * *       ");
+console.log("         * *   * *              * *              * *       ");
+console.log("      * * * *  * *              * *              * *       ");
+console.log("      * *      * *              * *              * *       ");
+console.log("        * *    * *              * *              * *       ");
+console.log("         * * *** *              * *              * *       ");
+console.log("          * * ******          *******          *****       ");
+console.log("            ***************************************        ");
+console.log("             *************************************         ");
